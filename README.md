@@ -12,5 +12,5 @@ The shop asks for your advice to estimate the average time/number of customers w
 <H4>Assumptions</H4>: customers arrival process is Nonhomogeneous Poisson Process with intensity λ(t) = 3 + 4/(t+1)
              service times are exponential random variables with rate µ = 5/hour
 
-
+<br>
 To do this, I use discrete event simulation coded in R
