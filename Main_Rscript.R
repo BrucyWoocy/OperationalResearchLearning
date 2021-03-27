@@ -177,5 +177,5 @@ while(flag){
   }
 }
 
-mean(D2-Ae)
+print('Average time customers spend in the shop =' mean(D2-Ae)
 
